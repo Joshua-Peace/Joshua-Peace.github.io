@@ -29,6 +29,6 @@ Autodesk Certified Professional - Design for Manufacturing
 ## Contact
 
 Email: jpeace315@gmail.com<br>
-[Github](github.com)<br>
-[LinkedIn](www.linkedin.com/in/joshua-peace-a2972437b)<br>
+[Github](https://github.com/Joshua-Peace)<br>
+[LinkedIn](https://www.linkedin.com/in/joshua-peace-a2972437b)<br>
 Phone: 508-816-9245
